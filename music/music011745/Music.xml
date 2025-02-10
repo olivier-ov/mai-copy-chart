@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='utf-8'?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <MusicData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <dataName>music011745</dataName>
   <netOpenName>
@@ -102,7 +102,7 @@
       </notesDesigner>
       <notesType>0</notesType>
       <musicLevelID>19</musicLevelID>
-      <maxNotes>734</maxNotes>
+      <maxNotes>740</maxNotes>
       <isEnable>true</isEnable>
     </Notes>
     <Notes>
@@ -117,7 +117,7 @@
       </notesDesigner>
       <notesType>0</notesType>
       <musicLevelID>22</musicLevelID>
-      <maxNotes>1120</maxNotes>
+      <maxNotes>1125</maxNotes>
       <isEnable>true</isEnable>
     </Notes>
     <Notes>
